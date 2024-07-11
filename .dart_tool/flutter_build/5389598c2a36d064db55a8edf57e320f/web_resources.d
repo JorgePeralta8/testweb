@@ -1,0 +1,1 @@
+ build/web/favicon.png build/web/icons/Icon-512.png build/web/icons/Icon-192.png:  /home/user/testweb/web/favicon.png /home/user/testweb/web/index.html /home/user/testweb/web/icons/Icon-512.png /home/user/testweb/web/icons/Icon-192.png
